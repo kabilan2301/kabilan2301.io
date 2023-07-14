@@ -321,5 +321,6 @@ span{
 /* footer */
 .contain{
   width: 100%;
+    margin: auto;
 }
 }
