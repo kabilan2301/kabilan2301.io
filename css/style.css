@@ -190,24 +190,6 @@ p, h5{
  }
 /* footer */
 
-/* @media  screen and(max-width: 1024px) and (min-width:480px){
-    img{
-        width: auto;
-        height: 250px;
-    }
-    
-    .card{
-        width: 100%;
-        margin: auto;
-        border-radius: 40px;
-    }
-    #contain{
-        margin: 0.5rem; 
-        font-size: 2rem; 
-        font-family: cursive;
-}
-} */
-
 @media screen and (max-width: 480px){
     .cardHolder{
         display: block;
@@ -233,8 +215,8 @@ p, h5{
         height: 200px;
         border-radius: 25px;
         margin: 0 5px;
-        background-color: aliceblue;
-        font-size: 16px;
+        background-color: rgb(0, 146, 183);
+        color: white;
     }
     /* footer */
 .footer ul {
