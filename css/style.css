@@ -13,6 +13,12 @@ h2{
     font-family: 'Trebuchet MS';
     float: right;
 }
+#self{
+  width: 12rem; 
+  height: 12rem; 
+  border-radius: 100px; 
+  float: right;
+}
 .contain{
     margin: 15px -50px;
     background-color:azure;
@@ -218,6 +224,7 @@ p, h5{
     #contain{
         margin: 20px 10px; 
         font-size: 20px;
+        display: inline-block;
     } 
     .card-indiv{
         width: 95%;
@@ -328,5 +335,10 @@ h2{
 }
 #body{
   margin: unset;
+}
+#self{
+  width: 15rem; 
+  height: 15rem; 
+  border-radius: 100px; 
 }
 }
