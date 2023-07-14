@@ -57,6 +57,13 @@ h2{
     background-color: rgb(0, 146, 183);
     color: white;
 }
+.card:hover{
+    transform: scale(1.1); 
+}
+.card-indiv:hover{
+    color: #121212;
+    background-color:#87b4fa7a;
+}
 .card_space1{
     margin: auto 100px auto 100px;
 }
