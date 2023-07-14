@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500&display=swap');
 #body{
     background-color: #76b5c5;
     margin: 0 75px;
@@ -26,7 +27,7 @@ h2{
 #contain{
         margin: 50px 105px; 
         font-size: 25px; 
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Exo 2', serif;
 }
 .container-fluid{
     background-color: blanchedalmond;
@@ -63,10 +64,10 @@ img{
     height: 250px;
 }
 p, h5{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Exo 2', serif;
 }
 .retro{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Exo 2', serif;
     font-weight: 700;
     text-transform: uppercase;
     background-color: white;
