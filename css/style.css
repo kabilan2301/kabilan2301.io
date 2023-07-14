@@ -14,7 +14,7 @@ h2{
     float: right;
 }
 .contain{
-    margin: 15px 0;
+    margin: 15px -45;
     background-color:azure;
 }
 #contain{
@@ -320,7 +320,14 @@ span{
 }
 /* footer */
 .contain{
-  width: 100%;
-    margin: auto;
+  width: 90%;
+margin: auto;
+}
+    h2{
+        margin: 10px 10px;
+    }
+    .contain{
+  width: 90%;
+  margin: auto;
 }
 }
