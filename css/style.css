@@ -20,7 +20,7 @@ h2{
 #contain{
         margin: 50px 105px; 
         font-size: 25px; 
-        font-family: cursive;
+        font-family: monospace;
 }
 .container-fluid{
     background-color: blanchedalmond;
@@ -57,10 +57,10 @@ img{
     height: 250px;
 }
 p, h5{
-    font-family: cursive;
+    font-family: monospace;
 }
 .retro{
-    font-family:cursive;
+    font-family:monospace;
     font-weight: 700;
     text-transform: uppercase;
     background-color: white;
