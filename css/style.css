@@ -133,7 +133,7 @@ h5 {
 .footer ul li:after {
   content: "";
   position: absolute;
-  top: 5px;
+  top: 0;
   left: -9px;
   width: 9px;
   height: 60%;
